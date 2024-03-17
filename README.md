@@ -10,7 +10,9 @@ In this experiment I wanted to find out how well can such decoder-only model lea
 
 If you are interested mostly in the final model performance - please scroll down to the Section 3 of this notebook to see its full evaluation.
 
-You can access the code yourself directly in Colab (https://colab.research.google.com/drive/1EuAldJmYSHi9YwjCGQ4u8ZYpnf7dn1XC?usp=sharing) or clone it from this repository (https://github.com/msznajder/mistral-7b-samsum-dialogue-summary-finetune).
+You can access and run the code yourself through:
+* Colab: https://colab.research.google.com/drive/1EuAldJmYSHi9YwjCGQ4u8ZYpnf7dn1XC?usp=sharing)
+* Cloning this repository and running code locally: https://github.com/msznajder/mistral-7b-samsum-dialogue-summary-finetune.
 
 ## Setup
 
