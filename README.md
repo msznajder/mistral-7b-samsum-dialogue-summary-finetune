@@ -10,7 +10,7 @@ In this experiment I wanted to find out how well can such decoder-only model lea
 
 If you are interested mostly in the final model performance - please scroll down to the Section 3 of this notebook to see its full evaluation.
 
-You can access the code yourself directly in Colab (https://colab.research.google.com/drive/1EuAldJmYSHi9YwjCGQ4u8ZYpnf7dn1XC?usp=sharing), clone it from this repository (https://github.com/msznajder/mistral-7b-samsum-dialogue-summary-finetune).
+You can access the code yourself directly in Colab (https://colab.research.google.com/drive/1EuAldJmYSHi9YwjCGQ4u8ZYpnf7dn1XC?usp=sharing) or clone it from this repository (https://github.com/msznajder/mistral-7b-samsum-dialogue-summary-finetune).
 
 ## Setup
 
@@ -26,5 +26,5 @@ I have conducted the fine-tuned model evaluation using ROUGE metric and analyzin
 
 ## Results summary
 
-TLDR; Fine-tuned model learned to generate pretty good and consistent summaries. You can see it in the ROUGEL metric: 0.43 for the fine-tuned model vs. 0.22 for the original base model. Even more importantly, I think, when you check the actually generated summaries it is clearly how much performance the fine-tuned model gained in this task. You can check it out right at the bottom of this notebook.
+TLDR; Fine-tuned model learned to generate pretty good and consistent summaries. You can see it in the ROUGEL metric: 0.43 for the fine-tuned model vs. 0.22 for the original base model. Even more importantly, I think, when you check the actually generated summaries it is clearly how much performance the fine-tuned model gained in this task. You can check it out right at the bottom the notebook above.
 
