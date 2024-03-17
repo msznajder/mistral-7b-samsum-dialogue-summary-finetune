@@ -8,7 +8,7 @@ Summarization is - kind of traditionally speaking - a seq2seq task. This means t
 
 In this experiment I wanted to find out how well can such decoder-only model learn to perform better in a non-orthodox type of task like summarization. Spoiler alert: the fine-tuned model performs really well. After fine-tuning Mistral base model with not so many dialogue summarization examples it learned the task pretty well and showed great improvement both in terms of ROUGE metric and also human level clarity of the generated summaries.
 
-If you are interested mostly in the final model performance - please scroll down to the Section 3 of this notebook to see its full evaluation.
+If you are interested mostly in the final model performance - please scroll down to the Section 3 of the notebook to see its full evaluation.
 
 You can access and run the code yourself through:
 * Colab: https://colab.research.google.com/drive/1EuAldJmYSHi9YwjCGQ4u8ZYpnf7dn1XC?usp=sharing
