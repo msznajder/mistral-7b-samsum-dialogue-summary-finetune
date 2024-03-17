@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this experiment I have implemented a parameter efficient fine-Tuning (PEFT) of `Mistral-7B-Instruct-v0.2` base model for dialogue summarization task using the great `samsum` dataset (kudos to Samsung R&D Institute Poland) using LoRA technique.
+In this experiment I have implemented a parameter efficient fine-tuning (PEFT) of `Mistral-7B-Instruct-v0.2` base model for dialogue summarization task using the great `samsum` dataset (kudos to Samsung R&D Institute Poland) using LoRA technique.
 
 Summarization is - kind of traditionally speaking - a seq2seq task. This means that it takes one sequence of tokens and transforms it into another. Usually for this group of problems an encoder-decoder architecture model is applied. Mistral 7B as a decoder-only architecture model is rather specialized in autoregressive text generation rather than seq2seq transformation.
 
