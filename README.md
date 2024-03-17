@@ -1,4 +1,4 @@
-# Mixtral 7B model parameter efficient fine-tuning for dialogue summarization with LoRA
+# Mistral 7B model parameter efficient fine-tuning for dialogue summarization with LoRA
 
 ## Introduction
 
