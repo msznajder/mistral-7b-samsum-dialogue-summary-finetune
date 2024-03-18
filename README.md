@@ -14,6 +14,9 @@ You can access and run the code yourself through:
 * Colab: https://colab.research.google.com/drive/1EuAldJmYSHi9YwjCGQ4u8ZYpnf7dn1XC?usp=sharing
 * Cloning this repository and running code locally.
 
+You can access the fine-tuned model on the Hugging Face Hub:
+https://huggingface.co/msznajder/Mistral-7B-Instruct-v0.2-Samsum-DialSum-SFTT
+
 ## Setup
 
 As the base model I have used `Mistral-7B-Instruct-v0.2` model.
